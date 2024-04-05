@@ -1,21 +1,20 @@
 # Projeto para atividade de git
- 
-## 🔐 Pré requisitos
-
-<a href="https://nodejs.dev/">Node</a> &nbsp;
 
 ## Instalação do Projeto
 
-Não requerida.
+Executar o codigo no terminal:
+
+```
+pip install -r requirements.txt
+```
 
 ## Executando a aplicação
 
 ```bash
 # development
-$ node calculator.js
+$ python calculator.py
 ```
 
 ## 🤝 Contribuídores
 
-<a href="https://github.com/felipehaertelsenac"><img src="https://github.com/felipehaertelsenac.png" width="45" height="45"></a> &nbsp;
-
+<a href="https://github.com/eduardogsouz"><img src="https://github.com/eduardogsouz.png" width="60" height="60"></a> &nbsp; <a href="https://github.com/GutiCrespo"><img src="https://github.com/GutiCrespo.png" width="60" height="60"></a> &nbsp; <a href="https://github.com/LeontinoMad"><img src="https://github.com/LeontinoMad.png" width="60" height="60"></a> &nbsp; <a href="https://github.com/Nataliab-16"><img src="https://github.com/Nataliab-16.png" width="60" height="60"></a> &nbsp; <a href="https://github.com/thiagonunesbatista"><img src="https://github.com/thiagonunesbatista.png" width="60" height="60"></a>&nbsp;
