@@ -1,5 +1,6 @@
 from InquirerPy import inquirer
 from InquirerPy.base.control import Choice
+import math
 
 
 #  retorna o valor da soma entre os dois parâmetros
@@ -24,7 +25,7 @@ def mult(v1, v2):
 
 #  retorna o valor da raiz quadrada do valor recebido por parâmetro
 def square(v1):
-    return print("Teste Square")
+    return print(math.sqrt(v1))
 
 
 valueInitial = float(input("Insira o Primeiro Valor: "))
