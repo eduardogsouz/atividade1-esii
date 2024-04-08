@@ -5,7 +5,7 @@ import math
 
 #  retorna o valor da soma entre os dois parâmetros
 def summ(v1, v2):
-    return print("Teste Summ")
+    return print(v1 + v2)
 
 
 #  retorna o valor da subtração entre os dois parâmetros
