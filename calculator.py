@@ -10,7 +10,7 @@ def summ(v1, v2):
 
 #  retorna o valor da subtração entre os dois parâmetros
 def sub(v1, v2):
-    return print("Teste Sub")
+    return print(v1 - v2)
 
 
 #  retorna o valor da divisão entre os dois parâmetros
