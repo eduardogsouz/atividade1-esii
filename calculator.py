@@ -12,16 +12,13 @@ def summ(v1, v2):
 def sub(v1, v2):
     return print(v1 - v2)
 
+#  retorna o valor da multiplicação entre os dois parâmetros
+def mult(v1, v2):
+    return print(v1 * v2)
 
 #  retorna o valor da divisão entre os dois parâmetros
 def div(v1, v2):
     return print("Teste Div")
-
-
-#  retorna o valor da multiplicação entre os dois parâmetros
-def mult(v1, v2):
-    return print("Teste Mult")
-
 
 #  retorna o valor da raiz quadrada do valor recebido por parâmetro
 def square(v1):
