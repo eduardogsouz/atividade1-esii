@@ -7,7 +7,6 @@ import math
 def summ(v1, v2):
     return print(v1 + v2)
 
-
 #  retorna o valor da subtração entre os dois parâmetros
 def sub(v1, v2):
     return print(v1 - v2)
@@ -18,7 +17,7 @@ def mult(v1, v2):
 
 #  retorna o valor da divisão entre os dois parâmetros
 def div(v1, v2):
-    return print("Teste Div")
+    return print(v1 / v2)
 
 #  retorna o valor da raiz quadrada do valor recebido por parâmetro
 def square(v1):
